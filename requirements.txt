@@ -1,0 +1,5 @@
+flask
+deep-translator
+langdetect
+gtts
+pymupdf
